@@ -6,7 +6,7 @@ The Digital Literacy Project helps individuals learn basic digital skills like c
 
 Digital Literacy Project – CSE0001
 Student Details
-Name: Mayank Gunwant 
+Name: Ayush Mall 
 Course: B.Tech (CSE - AI ML)
 University: VIT Bhopal University
 Course Code: CSE0001
